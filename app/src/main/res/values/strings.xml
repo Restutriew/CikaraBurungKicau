@@ -1,0 +1,312 @@
+<resources>
+    <string name="app_name">Kicau Burung</string>
+
+    <string-array name="data_namaBurung">
+        <item>Burung Murai Batu</item>
+        <item>Burung Cucak Hijau</item>
+        <item>Burung Cucak Rowo</item>
+        <item>Burung Anis Merah</item>
+        <item>Burung Kacer</item>
+        <item>Burung Lovebird</item>
+        <item>Burung Jalak Suren</item>
+        <item>Burung Pleci</item>
+        <item>Burung Kolibri</item>
+        <item>Burung Kenari</item>
+        <item>Burung Ciblek</item>
+        <item>Burung Hwa Mei</item>
+    </string-array>
+
+    <array name="data_photoBurung">
+        <item>@drawable/burung_murai_batu</item>
+        <item>@drawable/burung_cucak_hijau</item>
+        <item>@drawable/burung_cucak_rowo</item>
+        <item>@drawable/burung_anis_merah</item>
+        <item>@drawable/burung_kacer</item>
+        <item>@drawable/burung_lovebird</item>
+        <item>@drawable/burung_jalak_suren</item>
+        <item>@drawable/burung_kacamata_pleci</item>
+        <item>@drawable/burung_kolibri</item>
+        <item>@drawable/burung_kenari</item>
+        <item>@drawable/burung_ciblek</item>
+        <item>@drawable/burung_hwa_mei</item>
+    </array>
+
+    <string-array name="data_deskripsiBurung">
+        <item>\t\tMurai batu (Copsychus malabaricus), juga dikenal sebagai Kucica hutan. Termasuk ke dalam famili Muscicapidae atau burung cacing. Di habitat aslinya murai batu cenderung memilih hutan alam yang rapat atau hutan sekunder dan tersebar di seluruh pulau Sumatra, Semenanjung Malaysia, dan sebagian pulau Jawa.\n
+            \n
+\t\tBurung murai batu digemari oleh kalangan para pecinta kicauan karena memiliki suara atau spesifikasi kicauan yang sangat indah. Bahkan karena kicauan yang indah tersebut ia mendapat pengharhargaan terbaik atas nyanyian nya yang sangat indah pada tahun 1947 (The Best Song Birds – Delacour, 1947).\n
+            \n
+\t\tCiri – ciri dari burung ini yaitu memiliki tubuh hampir seluruhnya hitam, kecuali bagian bawah badan berwarna merah cerah hingga jingga kusam. Terdapat sedikit semburat biru di bagian kepala dengan badan berukuran 14-17 cm, serta ekor panjang ditegakkan dalam keadaan terkejut atau berkicau.\n
+            \n
+\t\tPerbedaan antara burung jantan dan betina dalam dilihat jelas dari bentuk fisiknya. Dimana untuk yang jantan memiliki bentuk tubuh lebih besar dari pada betina-nya dan untuk suara yang dihasilkan, burung pejantan jauh lebih keras dan bervariasi di banding dengan betina.\n
+            \n
+\t\tCara memilih murai batu yang berkualitas adalah dengan mengidentifikasi bagian – bagian tubuh burung tersebut, diantaranya:\n
+            \n
+\t\tPilih murai batu bakalan yang memiliki mata sehat, bulat besar dan melotot. Hindari yang memiliki tanda adanya katarak yaitu terdapat selaput putih pada bola mata\n
+            \n
+\t\tUsahakan pilih mulai batu yang memiliki kaki berwarna hitam karena diyakini burung ini memiliki mental yang berani. Namun tidak menutup kemungkinan burung dengan kaki berwarna lain juga baik.\n
+            \n
+\t\tCari yang memiliki ekor rapat, tidak terlalu tebal, dan melengkung mulai dari pangkal. Karena ekor seperti ini membuat murai batu memainkan ekornya saat sitrek. Selain dapat memperindah burung saat berlomba, namun ekor yang ringan juga tidak mempercepat penurunan stamina burung pada saat berlomba\n
+            \n
+\t\tPilih yang memiliki bulu dada cenderung lebih cerah (kekuningan) karena umumnya murai bakalan ini akan lebih cepat berbunyi\n
+            \n
+\t\tPada saat mengukur usia murai batu buka mulutnya dan perhatikan rongga mulutnya. Jika masih berwarna putih atau sedikit cerah, maka murai tersebut masih muda, jika sudah berwarna hitam berarti murai batu tsb sudah tua dan semakin pekat warna hitamnya, walau ada juga para penghobi menilai usia murai batu dengan berdasarkan pengamatan pada kaki, hal lain yang perlu diperhatikan pada bagian bulu adalah murai batu bakalan muda memiliki bulu yang masih berbintik cokelat dibagian sayap sebelah luar maupun sayap sebelah dalam.\n
+            \n
+\t\tPegang lah murai batu bakalan jika dia menjerit kencang dan berusaha mematuk-matuk jari tangan kita biasanya murai batu seperti ini memiliki mental berani.\n
+            \n
+\t\tHindari memilih murai batu bakalan yang memiliki paruh bengkok. Sebaiknya pilih yang mimiliki paruh bagian bawah harus lurus, berpangkal lebar, tebal, besar dan panjang. Posisi lubang hidung pilih sedekat mungkin dengan posisi mata.\n
+            \n
+\t\tLeher panjang dan berisi menandakan burung yang memiliki kemampuan mengeluarkan power suara secara maksimal
+</item>
+        <item>\t\tCuca Hijau (Chloropsis Sonnerati) adalah burung cica-daun besar dengan seluruh badan dominan dengan warna hijau bertubuh sedang dengan panjang tubuh total (diukur dari ujung paruh hingga ujung ekor) sekitar 22 cm.\n
+            \n
+\t\tCica daun besar menyebar di Semenanjung Malaya, Sumatra dan pulau – pulau di sekitarnya, Kalimantan termasuk pulau Natuna, Jawa, dan Bali. Tersebar luas tetapi tidak umum didapati, di hutan – hutan dataran rendah dan perbukitan sampai ketinggian 1000 mdpl.\n
+            \n
+\t\tPerbedaan dengan cica-daun yang lain adalah adanya warna (noktah) biru pada bahu burung jantan. Burung betina dengan tenggorokan kuning dan lingkaran mata kuning. Kedua jenis kelamin memiliki sepasang setrip malar biru berkilau di sisi dagunya. Iris mata berwarna coklat gelap, paruh tebal hitam, dan kaki abu-abu kebiruan.\n
+            \n
+\t\tJenis burung ini kadang bersikap agresif terhadap jenis lain yang berukuran lebih kecil. Saat berkicau, cica-daun besar akan menundukkan kepala. Makanannya adalah aneka serangga dan buah-buahan hutan.\n
+            \n
+\t\tAda beberapa hal penting yang harus diperhatikan dalam pemilihan bahan atau bakalan pada burung cucak hijau:\n
+            \n
+\t\tBerkelamin jantan dengan postur tubuh yang panjang serasi, mata besar melotot, bentuk kepala lebih besar dan bergerak lincah.\n
+            \n
+\t\tBentuk paruh, sebaiknya pilih bentuk paruh yang berpangkal lebar, tebal, besar dan panjang.\n
+            \n
+\t\tParuh bagian bawah harus lurus. Jangan memilih bahan yang memiliki paruh bengkok. Posisi lubang hidung pilih sedekat mungkin dengan posisi mata.\n
+            \n
+\t\tPostur badan, pilihlah bahan yang berpostur sedang dengan panjang leher, badan dan ekor serta kaki yang serasi. Jangan memilih bahan yang berleher dan berbadan pendek\n
+            \n
+\t\tSayap mengepit rapat dan kaki mencengkram kuat, ini menandakan bahan tersebut sehat.\n
+            \n
+\t\tWarna kaki tidak berpengaruh terhadap mental burung.\n
+            \n
+\t\tLincah dan bernafsu makan besar. Ini merupakan ciri-ciri bahan yang bermental baik.\n
+            \n
+\t\tRajin bunyi, ini menandakan burung tersebut memiliki prospek yang cerah.\n
+            \n
+\t\tLeher panjang padat berisi. Menandakan burung ini akan mengeluarkan power suara secara maksimal
+</item>
+        <item>\t\tBurung cucakrowo atau cucakrawa merupakan salah satu anggota suku merbah atau cucak – cucakan (Familia Pycnonotidae) yaitu suku burung pengicau dari Afrika dan Asia tropis. Berukuran sedang dengan panjang tubuh total (diukur dari ujung paruh hingga ujung ekor) sekitar 28 cm.\n
+            \n
+\t\tCucak rawa biasa ditemukan di paya-paya dan rawa-rawa di sekitar sungai, atau di tepi hutan. Sering bersembunyi di balik dedaunan dan hanya terdengar suaranya yang khas. Menyebar di dataran rendah dan perbukitan di Semenanjung Malaya, Sumatra (termasuk Nias), Kalimantan, dan Jawa bagian barat. Di Jawa Barat terdapat sampai ketinggian 800 m dpl., namun kini dianggap punah karena perburuan\n
+            \n
+\t\tBurung ini biasanya bertubuh sedang agak ramping, leher pendek, dan ekor panjang, serta kerap kali bersimai halus. Sebagian spesiesnya memiliki warna-warni yang cerah: kuning, jingga, merah, pada dada, perut atau seluruh tubuhnya. Akan tetapi kebanyakan berwarna suram coklat zaitun, keabu-abuan atau kekuningan, dengan warna kuning, jingga atau merah di pantatnya. Jantan dan betina berwarna serupa. Beberapa dengan warna hitam di kepala, jambul yang dapat digerak-gerakkan, atau janggut putih.\n
+            \n
+\t\tAda beberapa hal penting yang harus diperhatikan dalam pemilihan bahan atau bakalan pada burung Cucak Rowo.\n
+            \n
+\t\tPostur badan. Pilihlah bahan yang berpostur besar memanjang dengan panjang leher, badan dan ekor serta kaki yang serasi. Jangan memilih bahan yang berleher, berbadan pendek dan berpostur tubuh kecil.\n
+            \n
+\t\tBentuk paruh, sebaiknya pilih bentuk paruh yang berpangkal lebar, tebal, besar dan panjang. Paruh bagian bawah harus lurus. Jangan memilih bahan yang memiliki paruh bengkok. Posisi lubang hidung pilih sedekat mungkin dengan posisi mata.\n
+            \n
+\t\tSayap mengepit rapat dan kaki mencengkram kuat, ini menandakan bahan tersebut sehat. Warna kaki tidak berpengaruh terhadap mental burung.\n
+            \n
+\t\tLincah dan bernafsu makan besar. Ini adalah ciri-ciri bahan yang bermental baik\n
+            \n
+\t\tRajin bunyi, ini menandakan burung tersebut memiliki prospek yang cerah\n
+            \n
+\t\tLeher panjang padat berisi. Menandakan burung ini akan mengeluarkan power suara secara maksimal.
+</item>
+        <item>\t\tAnis merah (Geokichla citrine) adalah salah satu jenis burung kicau dari keluarga Turdidae dan Genus Geokichla. Burung ini bersifat omnivora, memakan berbagai macam serangga, cacing tanah, dan buah. Berukuran sedang (20–23 cm) dengan berat tubuh antara (47–67 g).\n
+            \n
+\t\tAnis merah sering terlihat di kebun – kebun kopi dan hutan (alas gedhe) yang berada dekat dengan aliran sungai, termasuk sungai – sungai kecil serta di lembah – lembah yang jarang terkena sinar matahari langsung. Burung ini dapat dijumpai di beberapa daerah Sub-benua India dan Asia Tenggara berlahan basah dan berakar. Di Indonesia dapat dijumpai dibeberapa daerah seperti kalimantan, jawa, bali dan beberapa daerah lainnya\n
+            \n
+\t\tCiri fisik dari burung cantik ini bisa dilihat dari dominan bulu dengan warna merah kecoklatan dada dan juga bagian kepala, bagian sayap hitam dengan garis putih, pantat berbulu putih, serta iris mata berwarna hitam dengan paruh hitam gelap. Anis merah cocok sekali dijadikan untuk burung peliharaan, karena punya tampilan fisik yang indah dan suara yang ngeplong yang merdu dan juga nyaman jika didengarkan.\n
+            \n
+\t\tPilihlah anis merah berkelamin jantan dengan ciri – ciri postur tubuh yang panjang serasi, ekor lebih panjang, tulang belakang dan supit kecil rapat, warna bulu lebih tegas, paruh berwarna lebih gelap, warna bulu di bawah paruh bagian bawah lebih pudar, mata besar melotot, bentuk kepala lebih besar dan bergerak lincah.\n
+            \n
+\t\tBentuk paruh, sebaiknya pilih bentuk paruh yang berpangkal lebar, tebal, besar dan panjang. Paruh bagian bawah harus lurus. Jangan memilih bahan burung Anis Merah yang memiliki paruh bengkok. Posisi lubang hidung pilih sedekat mungkin dengan posisi mata.\n
+            \n
+\t\tPostur badan, pilihlah bahan Anis Merah yang berpostur sedang dengan panjang leher, badan dan ekor serta kaki yang serasi. Jangan memilih bahan yang berleher dan berbadan pendek.\n
+            \n
+\t\tSayap mengepit rapat dan kaki mencengkram kuat, ini menandakan bahan tersebut sehat.\n
+            \n
+\t\tLincah dan bernafsu makan besar. Ini merupakan ciri-ciri bahan yang bermental baik.\n
+            \n
+\t\tBerdiri pada posisi kepala mendangak 45 derajat. Boleh percaya boleh tidak, apabila anda mendapatkan bahan yang seperti ini, dijamin umur 7 bulan sudah ngerol dan mulai teller
+</item>
+        <item>\t\tKucica kampung (bahasa Latin: Copsychus saularis) adalah burung pengicau kecil yang sebelumnya dikelompokkan sebagai anggota keluarga Turdidae (murai), tetapi kini dianggap sebaagi anggota Muscicapidae.\n
+            \n
+\t\tBurung kacer banyak mendiami dataran rendah sampai ketinggian 1000 meter di atas permukaan laut. Bahkan tidak jarang ada yang terlihat di perumahan penduduk. Banyak ditemukan di daerah Asia Selatan dan Asia tenggara. Burung kacer yang popular di Indonesia saat ini ada dua jenis, yakni kacer hitam atau kacer jawa (Copsychus Sechellarum) dan Kacer poci / Kacer Sekoci / Kacer Sumatra (Copsychus saularis).\n
+            \n
+\t\tPerbedaan keduanya yang menyolok hanyalah pada warna bulu hitam-putih. Dimana kacer jawa berbulu hitam semua di bagian dada sampai dekat kloaka, kacer poci warna hitam hanya sampai dada dan ke bawah hingga kloaka berwarna putih. Sementara itu burung yang sangat mirip dengan kacer poci atau kacer sumatra adalah kacer madagaskar (Copsychus albospecularis).\n
+            \n
+\t\tJika pilihan untuk kicauan tentunya yang berkelamin jantan, dengan ciri warna bulu hitam yang tegas mengkilap dan kontras.\n
+            \n
+\t\tBentuk paruh, sebaiknya pilih bentuk paruh yang berpangkal lebar, tebal, besar dan panjang. Paruh bagian bawah harus lurus. Jangan memilih bahan yang memiliki paruh bengkok. Posisi lubang hidung pilih sedekat mungkin dengan posisi mata.\n
+            \n
+\t\tKepala berbentuk kotak, mata bulat besar dan melotot. Ini menandakan burung ini mempunyai mental tempur yang baik.\n
+            \n
+\t\tPostur badan, pilihlah bahan yang berpostur sedang dengan panjang leher, badan dan ekor serta kaki yang serasi. Jangan memilih bahan yang berleher dan berbadan pendek.\n
+            \n
+\t\tSayap mengepit rapat dan kaki mencengkram kuat, ini menandakan bahan tersebut sehat. Pilihlah kaki yang besar dan terlihat kering. Warna kaki tidak berpengaruh terhadap mental burung.\n
+            \n
+\t\tLincah dan bernafsu makan besar. Ini merupakan ciri-ciri bahan yang bermental baik.\n
+            \n
+\t\tLeher panjang padat berisi. Menandakan burung ini akan mengeluarkan power suara secara maksimal.
+</item>
+        <item>\t\tBurung cinta adalah satu burung dari sembilan jenis spesies genus Agapornis (dari bahasa Yunani "agape" yang berarti "cinta" dan "ornis" yang berarti "burung"). Nama mereka berasal dari kelakuan yang umum diamati bahwa sepasang burung cinta akan duduk berdekatan dan saling menyayangi satu sama lain. Sifat pasangan burung cinta adalah monogami di alam bebas.\n
+            \n
+\t\tLovebird adalah burung yang berukuran kecil, antara 13 sampai 17 cm dengan berat 40 hingga 60 gram, dan bersifat sosial. Umur hidup rata-rata mereka adalah 10 sampai 15 tahun.\n
+            \n
+\t\tDelapan dari spesies ini berasal dari Afrika, sementara spesies burung cinta kepala abu-abu berasal dari Madagaskar.\n
+            \n
+\t\tKebanyakan lovebird yang diikut sertakan dalam acara lomba yaitu lovebird yang berwarna hijau. Untuk lovebird warna hijau tersebut bahkan juga paling banyak kita jumpai di pasaran.\n
+            \n
+\t\tCiri-ciri lovebird bermental fighter yang paling menonjol yaitu bisa dilihat dari bentuk sayap dan juga dilihat dari bentuk bagian ekor. Lovebird yang bermental fighter pada umumnya memiliki bentuk sayap menyilang serta terlihat agak melengkung keatas. Kemudian untuk bentuk ekornya lurus kebawah yang tampak sejajar dengan kaki. Dengan demikian, anda jangan memilih lovebird yang punya bentuk ekor yang mengarah ke belakang.\n
+            \n
+\t\tPada umumnya lovebird fighter ini punya leher yang besar untuk dijadikan tanda bahwa ia punya nafas yang panjang. Akan tetapi ketika lovebird kaget atau terancam, lehernya terlihat memanjang serta gagah.\n
+            \n
+\t\tTak hanya bisa dilihat dari bentuk sayap, ekor serta leher, namun dapat ditentukan dari kualitas suara. Lovebird fighter pada umumnya cenderung cerewet dan kerap berkicau.
+</item>
+        <item>\t\tJalak suren/jalak uren (Sturnus contra) adalah spesies jalak yang ditemukan di Anak Benua India dan Asia Tenggara. Jalak suren berukuran sedang dengan panjang tubuh sekitar 20 sampai 24 cm dengan berat tubuh sekitar 75 sampai 100 gram.\n
+            \n
+\t\tPersebaran spesies jalak suren acapkali dijumpai di kota atau perdesaan. Hewan ini juga memiliki beberapa variasi bulu di populasinya. Biasanya mereka bersarang di dekat air, lubang pohon, dan biasa mencari makan di tanah.\n
+            \n
+\t\tBurung yang memiliki perawakan sedang ini umumnya berwarna hitam dan putih dengan sentuhan sedikit warna kuning pada matanya. Jalak suren jantan memiliki badan yang lurus dan lebih besar daripada betina. Bulu kepala dan punggungnya berwarna hitam legam dengan ekor sedikit lebih panjang dan menyatu. Warna merah pada kulit di atas matanya terlihat lebih cerah dan jelas.\n
+            \n
+\t\tHal pertama yang harus diperhatikan adalah bentuk tubuh burung, biasanya burung jalak suren yang berkualitas mempunyai tubuh berbentuk bulat memanjang atau ramping memanjang. Selain itu pilih yang postur tubuhnya tegap dan kakinya mencengkram tenggeram burung dengan kuat dan pastikan burung tersebut terlihat aktif. \n
+            \n
+\t\tciri jalak suren berkualitas adalah sering berkicau ketika akan dipegang dan saat sedang dipegang. Ini menandakan bahwa burung tersebut aktif dan tidak mudah grogi.\n
+            \n
+\t\tJalak suren yang mempunyai paruh bengkok dan tipis adalah tipe jalak suren yang sering berkicau dan bersuara cukup nyaring.\n
+            \n
+\t\tJalak suren berparuh tebal dan sedikit  pendek yakni untuk tipe jalak suren yang pintar mengoceh.\n
+            \n
+\t\tJalak suren berparuh panjang adalah tipe burung jalak suren yang cerewet atau rajin berkicau dengan gaya memompa\n
+            \n
+\t\tPilihlah burung jalak suren yang mempunyai maya besar dan melotot tapi memiliki pandangan yang cukup tajam karena biasanya burung dengan ciri ini lebih sigap dan lebih aktif\n
+            \n
+\t\tPilihlah burung jalak suren yang sayapnya mengapit atau terjepit dan bulu sayapnya tidak jatuh. Bulu sayap yang jatuh atau terjulur ke bawah merupakan suatu tanda bahwa jalak suren tersebut sedang dalam kondisi tidak stabil atau sakit.\n
+            \n
+\t\tPilihlah jalak suren yang berbulu bersih, mengkilap dan tidak kumel, serta cederung rapi. Ciri ini menunjukkan bahwa jalak suren dalam keadaan sehat dan baik.\n
+            \n
+\t\tBurung jalak suren yang bagus umumnya akan memiliki ekor panjang. Selain itu, bentuk ekor juga akan lebih melebar ketika dia mengembangkan ekor.
+</item>
+        <item>\t\tBurung pleci memiliki nama dalam bahasa latin Zosterops sedangkan dalam bahasa Indonesia burung ini sering disebut dengan burung kacamata. Burung pleci disebut dengan burung kacamata karena memiliki lingkaran yang ukurannya kecil dan berwarna hitam atau putih disekitar matanya.\n
+            \n
+\t\tBurung pleci bisa ditemukan di wilayah tropis Afrika dan juga Asia, namun di wilayah Asia burung pleci hanya dapat ditemukan di wilayah Indomalaya dan juga Australia pada bagian utara. Burung ini banyak dipelihara sebagai burung kicauan, dengan ukurannya yang kecil burung ini bisa mengeluarkan bunyi yang mendencing dan juga khas.\n
+            \n
+\t\tPleci adalah burung dengan jenis montanus yang memiliki ukuran tubuh yang relatif besar daripada yang jenis Pleci Auri dan juga Buxtoni. Sedangkan rata-rata panjang tubuhnya adalah sekitar 11 sentimeter. Selain ukurannya yang besar burung ini memiliki warna yang hitam serta abu-abu di bagian perutnya. Diantara spesies pleci memang ada sub spesiesnya yang perutnya berwarna garis kuning.\n
+            \n
+\t\tHal pertama yang harus diperhatikan adalah memilih pleci berjenis jantan dengan ciri bulu yang kontras dan bersih, memiliki mata yang seolah keluar dan ukuranya jauh lebih besar, memiliki gerakan yang lincah dan selalu aktif, postur tubuh panjang dan kaki jenjang, kepala besar, paruh panjang dan lebih besar, vent tegak dan menonjol (kurang lebih 30 s.d 80 derajat dari perut), serta lingkar mata putih lebih besar dan cerah.\n
+            \n
+\t\tSetelah memilih burung pleci jenis jantan, hal lain yang harus diperhatikan yaitu memilih pleci yang berkualitas bagus, dengan ciri sebagai berikut:\n
+            \n
+\t\tMemiliki dahi yang lebih menonjol dan kepala yang berukuran besar.\n
+            n
+\t\tLehernya terlihat lebih berisi, panjang, dan tebal.\n
+            n
+\t\tMemiliki ekor yang panjang dan rapi, tidak berantakan.\n
+            \n
+\t\tMemiliki dada yang bidang atau besar, ini menunjukan bahwa pleci memiliki mental pemberani.\n
+            \n
+\t\tMemiliki mata yang tajam dengan bentuk bulat melotot.\n
+            \n
+\t\tMemiliki sayap yang lebar dan mampu mengapit dengan simetris.\n
+            \n
+\t\tMemiliki stamina yang selalu fit, tidak loyo.\n
+            \n
+\t\tPastikan burung pleci memiliki tubuh yang proporsional dimulai dari paruh, leher, badan, sampai dengan kaki.\n
+            \n
+\t\tUsahakan untuk memilih burung pleci dengan usia yang masih muda
+</item>
+        <item>\t\tBurung Kolibri Ninja mempunyai nama latin leptocoma sperata, namun jika di daerah Jawa Barat lebih dikenal dengan sebutan kolibri tasik dan jika di daerah Jawa Tengah terutama di Solo dikenal dengan nama kolibri raja.\n
+            \n
+\t\tHabitat dari burung kolibri jenis ini adalah di pinggir hutan yang memiliki ketinggian hingga 200m dpl. Burung ini juga sering ditemukan di daerah hutan karet dan juga di daerah pesisir pantai.\n
+            \n
+\t\tJenis kolibri ninja memiliki ukuran tubuh yang lebih kecil jika dibanding dengan jenis kolibri kelapa yakni hanya 10cm saja. Untuk pejantan memiliki ciri khas dengan warna topi hijau metalik, bagian leher berwarna ungu dan bagian dada memiliki bulu berwarna merah coklat dan abu. Kolibri jantan untuk jenis konin lebih dominan warna hitam, sedangkan untuk betina lebih dominan warna abu-abu.\n
+            \n
+\t\tBurung Konin yang memiliki paruh tebal biasanya mempunyai suara yang keras, jika paruhnya tebal dan panjang burung akan dapat mengeluarkan isiannya ngerol secara keras, sedangkan paruh pendek dan juga tebal menandakan burung memiliki jenis kicauan yang cepat/ rapat dan juga keras.\n
+            \n
+\t\tBurung yang memiliki mata melotot memiliki sifat fighter, biasanya burung ini lebih agresif dalam mempertahankan daerah teritorialnya. Burung yang memiliki kepala yang cenderung cepak dan juga leher yang besar dapat dipastikan burung ini mempunyai mental yang lebih bagus daripada burung yang memiliki kepala kecil lonjong.\n
+            \n
+\t\tTubuh proposional dalam artian burung yang memiliki ciri-ciri seperti kepala cepak, mata melotot, paruh tebal panjang, leher sampai dada terlihat kekar serta tubuh yang panjang dan berdiri tegak. Itulah bentuk tubuh yang proposional untuk burung juara.\n
+            \n
+\t\tBerani berkicau dalam kandang ombyookan dapat dipastikan memiliki mental tarung yang bagus\n
+            \n
+\t\tSering terlihat mengejar burung lain serta berani mematok itu bisa dijadikan referensi untuk memilih kolibri yang mempunyai mental\n
+            \n
+\t\tBurung yang sudah mempunyai mental dan juga mapan biasanya sering mandi dalam cepuk air, burung seperti ini biasanya gampang jinak dan juga mudah untuk dirawat.\n
+            \n
+\t\tBurung yang berani makan lewat tangan kita langsung menandakan burung tersebut sudah memiliki mental dan akan mudah untuk dijinakkan
+</item>
+        <item>\t\tBurung Kenari atau Serinus Canaria adalah burung yang memiliki asal habitat dari Kepulauan Makaronesia yang terletak di Samudra Atlantik atau di barat laut Afrika. Nama Kenari diambil dari Kepulauan Canaria ketika pelaut Prancis, Jean de Berthan Cout singgah di sana dan melihat merdu suara serta keindahan bulu Burung Kenari.\n
+            \n
+\t\tVarietas lagu (Song Variety): hasil pengembangan kenari untuk menghasilkan kenari dengan kemampuan bernyanyi yang bagus dan sedikit banyak mengabaikan masalah warna burung tersebut.\n
+            \n
+\t\tVarietas kenari warna (Color Bred Variety): pengembangbiakan yang mengejar kualitas warna dengan sedikit banyak mengabaikan keindahan nyanyian si kenari.\n
+            \n
+\t\tVarietas postur (Canary of Posture): dikembangkan dengan sedikit memperhatikan warna bulu dan sama sekali mengabaikan masalah lagu.\n
+            \n
+\t\tVarietas kenari bagal/hybrid (the mule and bybrid canaries): kenari hasil persilangan antara kenari dengan burung jenis finch lainnya untuk menghasilkan keturunan yang memiliki sifat tertentu yang menonjol, apakah itu di masalah warna, lagu, postur, atau kombinasi di antara tiga varietas yang disebut sebelumnya\n
+            \n
+\t\tVarietas hasil Persilangan: persilangan dari semua ragam varietas di atas yang direkayasa bukan untuk tujuan khusus karena yang penting “bisa memuaskan” hasrat orang yang menangkar untuk bisa meghasilkan burung, apapun jenisnya.\n
+            \n
+\t\tKenari dengan bulu tebal (yang dia istilahkan “bulu rangkap”) cenderung lama untuk bisa bernyanyi secara maksimal.\n
+            \n
+\t\tKenari dengan bulu tipis (yang dia istilahkan dengan “bulu satu”) lebih cepat berbunyi dengan capaian lagu maksimal\n
+            \n
+\t\tKenari yang memiliki warna dominan cerah (putih, kuning, orange) cenderung lama untuk bisa bernyanyi secara maksimal.\n
+            \n
+\t\tKenari yang tidak memiliki warna dominan cerah (putih, kuning, orange) lebih cepat berbunyi dengan capaian lagu maksimal.\n
+            \n
+\t\tKenari berbulu tebal/rangkap lebih bisa membawakan lagu dengan cengkok yang terdengar lebih jelas ketimbang kenari berbulu satu/tipis karena dalam membawakan suara hanya sedikit ditingkahi dengan gaya (baik sayap, maupun jalan kanan-kiri)\n.
+            \n
+\t\tKenari berbulu tipis lebih lincah dan bisa bergaya dengan mengandalkan suara-suara tembakan
+</item>
+        <item>\t\tPerenjak jawa/ciblek adalah sejenis burung pengicau dari suku Cisticolidae (pada banyak buku masih dimasukkan ke dalam suku Sylviidae). Bentuk tubuhnya kecil ramping, dengan panjang total (diukur dari ujung paruh hingga ujung ekor) sekitar 13 cm.\n
+            \n
+\t\tBurung yang ramai dan lincah ini sering ditemui di tempat terbuka atau daerah bersemak di taman, pekarangan, tepi sawah, hutan sekunder hingga hutan bakau, serta kerap teramati di perkebunan teh. Ciblek adalah burung endemik (menyebar terbatas) di wilayah Sumatra, Jawa, dan Bali. Di Sumatra tidak jarang sampai ketinggian 900 mdpl, sedangkan di Jawa dan Bali umumnya sampai ketinggian 1.500 mdpl.\n
+            \n
+\t\tHampir seluruh sisi atas badan berwarna coklat hijau-zaitun. Tenggorokan dan dada putih, perut dan pantat kekuningan. Sisi dada dan paha keabu-abuan. Ciri khasnya sayap dengan dua garis putih, serta ekor panjang dengan ujung berwarna hitam dan putih. Paruh panjang runcing, sebelah atas berwarna kehitaman dan sebelah bawah kekuningan. Kaki langsing dan rapuh berwarna coklat kemerahan atau merah jambu.\n
+            \n
+\t\tPastikan burung yang dipilih jantan, cara membedakan jantan dan betina ciblek dewasa dapat dilihat dari warna paruh bawahnya. Untuk ciblek jantan paruh bawah berwarna hitam pekat sedangkan betina putih.\n
+            \n
+\t\tPastikan burung dalam keadaan sehat, burung sehat dapat dilihat dari tingkah lakunya sebagai contoh burung masih aktif melompat, burung mencengkram pangkringan dengan rapat dan burung masih mau makan ulat.\n
+            \n
+\t\tPilih burung berdasarkan katuranggan, ciri-ciri fisik ciblek yang memiliki suara rapat dan kencang dapat dilihat dari bentuk paruhnya yang panjang dan tebal, kepala besar kotak serta leher panjang.\n
+            \n
+\t\tPilih burung yang tidak cacat, perhatikan dengan teliti apakah ada luka ataupun cacat fisik pada burung contohnya jari kaki putus atau sayap yang tidak bisa menggepit rapat.\n
+            \n
+\t\tPilih ciblek muda, burung muda lebih cepat untuk berkicau. Untuk memilih ciblek jantan yang masih muda perhatikan warna paruh bawahnya apakah warnanya masih separo yang hitam atau sudah full hitam pekat, perhatikan juga warna bola mata ciblek tua memiliki warna mata yang merah sedangkan yang muda masih kuning cerah, kaki kering bersisik juga menandakan kalau ciblek sudah tua.\n
+            \n
+\t\tPilih yang mempunyai mental bagus, ciblek yang mempunyai mental bagus akan melompat dengan tenang saat dikandang ombyokan, burung tidak ngruji dan berani melawan ciblek jantan lain.\n
+            \n
+\t\tPilih yang berani berkicau, pada dasarnya burung ciblek merupakan burung teritorial maka tidak jarang ada burung yang berani tarung/ mengeluarkan suara tembakan walaupun dalam kandang ombyokan karena ada burung sejenis.
+</item>
+        <item>\t\tBurung Hwamei/wambi (garrulax canorus) adalah burung yang bukan berasal dari negara kita, melainkan berasal dari negeri tirai bambu yakni negeri China. Asal usul dari nama burung Hwa mei diambil dari bahasa asalnya yaitu negara China yang berarti alis yang di cat, karena memang burung ini memiliki ciri fisik yakni pada matanya terdapat alis putih tebal seperti di cat.\n
+            \n
+\t\tHuamei terkenal dengan burung yang bersuara merdu, lantang dan banyak variasi berbeda. Karakter suaranya berbeda dengan burung kicauan lainnya sehingga burung ini mampu memikat para pecinta burung di dunia. Selain itu burung ini memiliki sifat Fighter yang pemberani dan sangat temperamental.\n
+            \n
+\t\tHabitat burung hwamei yang keseluruhan bulu tubuhnya berwarna cokelat ini hidup di dataran tinggi tepatnya antara 1800 mdpl. Kerap di temukan di daerah hutan terbuka, hutan sekunder, taman, kebun dan di semak-semak belukar yang dekat dengan aliran air sungai.\n
+            \n
+\t\tUntuk perbedaan antara burung hwa mei jantan dan betina dapat dilihat dari bentuk fisiknya yaitu Hwamei jantan mempunyai badan yang lebih kecil dari Hwamei betina, biasanya Hwamei jantan memilki ekor yang yang lebih panjang.\n
+            \n
+\t\tBurung Hwa Mei sekilas nampak seperti burung pipit namun terdapat beberapa perbedaan yang dapat diperhatikan yaitu Hwamei ini mempunyai ciri-ciri bulu yang berwarna cokelat, sedikit kusam (untuk Hwamei muda) dan tidak kusam (Hwamei Dewasa), mempunyai alis putih tebal, dan suara yang merdu\n
+            \n
+\t\tBiasanya di jual dengan harga yang mahal. Karena pada dasarnya, Hwamei didapatkan dari hasil impor dari daerah China. Jadi bagi anda yang mendapatkan hargai Hwamei yang murah di pasaran, harus berhati-hati dan teliti dengan kualitas Hwamei itu sendiri.\n
+            \n
+\t\tHwamei terkenal dengan burung yang sangat temperamental. Bagi mereka yang mencari Hwamei dewasa, sisi kelincahan pada burung ini harus sangat diperhatikan. Kelincahan disini tidak hanya diperuntukkan dalam perlombaan, tetapi juga sebagai pemenuhan kepuasan fisik burung itu sendiri.\n
+            \n
+\t\tHwamei jantan identik dengan suara kicauannya yang lantang dan bervariasi.\n
+            \n
+\t\tJika burung kondisinya sehat dan fit, maka burung tersebut mempunyai prospek yang bagus
+</item>
+    </string-array>
+
+    <array name="data_audioBurung">
+        <item>@raw/suara_murai_batu</item>
+        <item>@raw/suara_cucak_ijo</item>
+        <item>@raw/suara_cucak_rowo</item>
+        <item>@raw/suara_anis_merah</item>
+        <item>@raw/suara_kacer</item>
+        <item>@raw/suara_lovebird</item>
+        <item>@raw/suara_jalak_suren</item>
+        <item>@raw/suara_pleci</item>
+        <item>@raw/suara_kolibri</item>
+        <item>@raw/suara_kenari</item>
+        <item>@raw/suara_ciblek</item>
+        <item>@raw/suara_hwa_mei</item>
+    </array>
+
+</resources>
